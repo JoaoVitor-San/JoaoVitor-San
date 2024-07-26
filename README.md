@@ -1,8 +1,8 @@
-👋 Olá, eu sou Joao Vitor Santana.
+👋 Olá, eu sou João Vitor Santana.
 
 👀 Estou interessado em desenvolvimento de software, projetos de código aberto e tecnologia inovadora.
 
-🌱 Atualmente estou aprendendo sobre HTML & CSS.
+🌱 Atualmente Cursando "carreira desenvolvedor Full-Stack" pela CoderHouse.
 
 🧭 Estou buscando montar meu portifolio, criar intimidade com a plataforma e expor meus aprendizados.
 
